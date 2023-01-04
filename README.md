@@ -1,5 +1,4 @@
 # dhruvmaster
-Hi this is an automated scripts for bug bounty and pentesting 
 #!/bin/bash
 
 # Set the target URL
